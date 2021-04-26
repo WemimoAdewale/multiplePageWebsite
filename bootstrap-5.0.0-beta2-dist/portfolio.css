@@ -1,0 +1,23 @@
+body{
+  background-color:black;
+  color:blue;
+}
+.body{
+  display:flex;
+  background-color: black;
+  align-items: center;
+  margin-left:200px;
+
+
+}
+#text{background-color: black;
+  color:blue;
+  border-radius: 30px;
+
+}
+#img3{
+  width: 259px;
+height:194px;}
+header{
+  font-size: 2em;
+  margin: 30px 400px 50px 400px}

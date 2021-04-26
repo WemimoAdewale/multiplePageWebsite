@@ -1,0 +1,14 @@
+body{
+  background-image:
+  url(one.jpeg);
+}
+.container{ margin-top: 30px;
+color:white;}
+.text{
+  font-size: 3em;
+}
+input{
+  background-color:grey;
+  margin-top:10px;
+
+}
